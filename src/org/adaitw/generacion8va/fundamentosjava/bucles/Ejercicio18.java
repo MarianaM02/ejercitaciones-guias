@@ -1,4 +1,4 @@
-package guia03;
+package org.adaitw.generacion8va.fundamentosjava.bucles;
 
 //18. Realice un algoritmo que lea una matriz de C columnas y R renglones. A partir de ella
 //        genere dos vectores que contengan la suma de sus renglones y la suma de sus

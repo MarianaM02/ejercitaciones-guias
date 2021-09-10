@@ -1,4 +1,4 @@
-package guia02;
+package org.adaitw.generacion8va.fundamentosjava.estructurascontrol;
 
   /* Realice un algoritmo que permita determinar el sueldo semanal
    de un trabajador con base en las horas trabajadas y el pago por hora,

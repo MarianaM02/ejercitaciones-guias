@@ -1,4 +1,4 @@
-package guia03;
+package org.adaitw.generacion8va.fundamentosjava.bucles;
 
 //Vamos a plantear y resolver un ejercicio: queremos almacenar en una matriz el número de alumnos con
 //        el que cuenta una academia, ordenados en función del nivel y del idioma que se estudia. Tendremos 3

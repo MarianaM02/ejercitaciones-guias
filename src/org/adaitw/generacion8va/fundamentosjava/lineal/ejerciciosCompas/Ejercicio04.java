@@ -1,4 +1,4 @@
-package guia01.ejerciciosCompas;
+package org.adaitw.generacion8va.fundamentosjava.lineal.ejerciciosCompas;
 
 /*
 Un estacionamiento requiere determinar el cobro que debe aplicar a las personas

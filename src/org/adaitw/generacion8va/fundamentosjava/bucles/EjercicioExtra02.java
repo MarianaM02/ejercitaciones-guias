@@ -1,4 +1,4 @@
-package guia03;
+package org.adaitw.generacion8va.fundamentosjava.bucles;
 //2 - Crea un array bidimensional de números enteros y lo rellena con valores aleatorios dentro de un rango. Por ejemplo, generaArrayBiInt(8, 7, 10, 30) devolvería un array de 8 filas por 7 columnas relleno con números generados al azar comprendidos entre 10 y 30.
 
 import java.util.Scanner;

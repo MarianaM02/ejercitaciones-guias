@@ -1,4 +1,4 @@
-package guia01.ejerciciosCompas;
+package org.adaitw.generacion8va.fundamentosjava.lineal.ejerciciosCompas;
 /* Una empresa que contrata personal requiere determinar la edad de las personas que
 solicitan trabajo, pero cuando se les realiza la entrevista sólo se les pregunta el año en
 que nacieron. Realice el diagrama de flujo y pseudocódigo que representen el algoritmo

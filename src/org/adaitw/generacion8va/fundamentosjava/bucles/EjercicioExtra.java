@@ -1,4 +1,4 @@
-package guia03;
+package org.adaitw.generacion8va.fundamentosjava.bucles;
 
 import java.util.Arrays;
 import java.util.Scanner;

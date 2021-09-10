@@ -1,4 +1,4 @@
-package guia03;
+package org.adaitw.generacion8va.fundamentosjava.bucles;
  /*Realice un algoritmo que lea un vector de cien elementos y que calcule
  su magnitud y represéntelo mediante diagrama de flujo y pseudocódigo.
   */

@@ -1,4 +1,4 @@
-package guia03;
+package org.adaitw.generacion8va.fundamentosjava.bucles;
 //3. Realice un algoritmo que lea un arreglo de M filas y N columnas y que calcule la suma de los elementos de la
 //        diagonal principal.
 

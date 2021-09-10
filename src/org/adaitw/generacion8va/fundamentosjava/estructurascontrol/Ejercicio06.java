@@ -1,4 +1,4 @@
-package guia02;
+package org.adaitw.generacion8va.fundamentosjava.estructurascontrol;
 
 /* 6. Realice el diagrama de flujo y el pseudocódigo que muestren el algoritmo para
 determinar el costo y el descuento que tendrá un artículo. Considere que si su precio es

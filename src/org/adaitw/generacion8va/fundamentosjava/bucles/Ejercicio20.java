@@ -1,4 +1,4 @@
-package guia03;
+package org.adaitw.generacion8va.fundamentosjava.bucles;
 
 /*
 Ejercicio 19 matriz de 5 por 5 elementos.

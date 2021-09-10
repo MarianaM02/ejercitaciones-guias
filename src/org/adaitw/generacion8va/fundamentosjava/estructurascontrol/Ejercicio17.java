@@ -1,4 +1,4 @@
-package guia02;
+package org.adaitw.generacion8va.fundamentosjava.estructurascontrol;
 
 import java.util.Scanner ;
 

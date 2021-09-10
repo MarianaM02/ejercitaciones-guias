@@ -1,4 +1,4 @@
-package guia03;
+package org.adaitw.generacion8va.fundamentosjava.bucles;
 
 /* Se tiene en un arreglo cien elementos representando
  calificaciones de los estudiantes de una escuela.

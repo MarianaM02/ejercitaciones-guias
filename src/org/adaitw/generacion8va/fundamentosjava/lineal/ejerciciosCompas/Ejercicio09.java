@@ -1,4 +1,4 @@
-package guia01.ejerciciosCompas;
+package org.adaitw.generacion8va.fundamentosjava.lineal.ejerciciosCompas;
 
 import java.util.Scanner;
 
